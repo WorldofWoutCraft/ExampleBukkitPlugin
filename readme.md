@@ -1,0 +1,1 @@
+Example empty project for a Bukkit plugin.

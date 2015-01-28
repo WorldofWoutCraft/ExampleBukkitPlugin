@@ -1,0 +1,13 @@
+ name: Example
+ version: 1.0
+ description: Example plugin.
+ author: example
+ website: http://example.com/
+ main: com.example.example.Main
+ database: false
+ commands:
+    example:
+      description: Example command.
+      aliases: [ex]
+      permission: example.command
+      usage: Syntax error!
